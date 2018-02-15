@@ -2,7 +2,7 @@
 
 * Tutorial from Traversy Media based on Node.js & Express.js
 
-* @see [@link ExpressJS Crash Course](https://www.youtube.com/watch?v=gnsO8-xJ8rs&t=991&ab_channel=TraversyMedia)
+* @see @link {[ExpressJS Crash Course](https://www.youtube.com/watch?v=gnsO8-xJ8rs&t=991&ab_channel=TraversyMedia)}
 
 ## MAP
 
@@ -13,6 +13,7 @@
 	* Node.js
 	* NPM
 
+
 	```javascript
 	$ npm init
 	```
@@ -20,8 +21,8 @@
 	$ npm install express --save
 	```
 
-- [x] Middleware @see {@link http://expressjs.com/fr/guide/using-middleware.html}
-- [x] Routing @see {@link => http://expressjs.com/fr/guide/routing.html}
+- [x] Middleware @see {@link [using-middleware](http://expressjs.com/fr/guide/using-middleware.html)}
+- [x] Routing @see @link{[routing](http://expressjs.com/fr/guide/routing.html)}
 - [x] Template Engines
 - [x] Forms & Input
 - [ ] MongoDB w/ MongoJS => TODO
