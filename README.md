@@ -8,10 +8,10 @@
 
 - [x] Express Installation & Setup
 
-	```javascript
+	```
 	$ npm init
 	```
-	```javascript
+	```
 	$ npm install express --save
 	```
 
