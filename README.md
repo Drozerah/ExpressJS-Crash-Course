@@ -8,7 +8,6 @@
 
 - [x] Express Installation & Setup
 
-	##### Requirements
 	```javascript
 	$ npm init
 	```
@@ -17,7 +16,7 @@
 	```
 
 - [x] Middleware @see {@link [using-middleware](http://expressjs.com/fr/guide/using-middleware.html)}
-- [x] Routing @see @link{[routing](http://expressjs.com/fr/guide/routing.html)}
+- [x] Routing @see @link {[routing](http://expressjs.com/fr/guide/routing.html)}
 - [x] Template Engines
 - [x] Forms & Input
 - [ ] MongoDB w/ MongoJS => TODO
