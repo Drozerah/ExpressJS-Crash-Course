@@ -9,11 +9,6 @@
 - [x] Express Installation & Setup
 
 	##### Requirements
-
-	* Node.js
-	* NPM
-
-
 	```javascript
 	$ npm init
 	```
