@@ -7,8 +7,21 @@
 ## MAP
 
 - [x] Express Installation & Setup
-- [x] Middleware
-- [x] Routing
+
+	##### Requirements
+
+	* Node.js
+	* NPM
+
+	```javascript
+	$ npm init
+	```
+	```javascript
+	$ npm install express --save
+	```
+
+- [x] Middleware @see {@link http://expressjs.com/fr/guide/using-middleware.html}
+- [x] Routing @see {@link => http://expressjs.com/fr/guide/routing.html}
 - [x] Template Engines
 - [x] Forms & Input
 - [ ] MongoDB w/ MongoJS => TODO
